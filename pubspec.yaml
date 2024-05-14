@@ -1,7 +1,8 @@
 name: flutter_project_name_changer
 description: "A Dart package for programmatically renaming occurrences of a project name in Dart files."
-version: 1.0.1
-# repository: https://github.com/my_org/my_repo
+version: 1.0.2
+maintainer: Sai
+homepage: https://github.com/usaikoo/flutter_project_name_changer
 
 environment:
   sdk: ^3.3.0
