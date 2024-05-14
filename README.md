@@ -17,7 +17,17 @@ To use this package, add `flutter_project_name_changer` as a dependency in your 
 dependencies:
   flutter_project_name_changer: ^1.0.0
 
+```
 
 
+## Usage
+flutter pub run flutter_project_name_changer:main old_project_name new_project_name /path/to/your/project
 
-dart run flutter_project_name_changer my_old_project_name my_new_project_name /path/to/your/project
+example :
+old_project_name = flutter_app
+new_project_name = new_flutter_app
+/path/to/your/project = .
+
+```code
+flutter_project_name_changer:main flutter_app  new_flutter_app .
+```
