@@ -20,4 +20,4 @@ dependencies:
 
 
 
-dart run flutter_package_name_changer my_old_project_name my_new_project_name /path/to/your/project
+dart run flutter_project_name_changer my_old_project_name my_new_project_name /path/to/your/project
