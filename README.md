@@ -16,3 +16,8 @@ To use this package, add `flutter_project_name_changer` as a dependency in your 
 ```yaml
 dependencies:
   flutter_project_name_changer: ^1.0.0
+
+
+
+
+dart run project_renamer my_old_project_name my_new_project_name /path/to/your/project
