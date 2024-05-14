@@ -1,7 +1,7 @@
+import 'package:flutter_project_name_changer/flutter_project_name_changer.dart';
+import 'package:test/test.dart';
 import 'dart:io';
 
-import 'package:flutter_project_name_changer/flutter_project_name_changer.dart';
-import 'package:flutter_test/flutter_test.dart';
 
 
 void main() {

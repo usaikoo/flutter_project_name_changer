@@ -1,6 +1,6 @@
-# Flutter Project Name Changer
+# Flutter Project Renamer
 
-Flutter Project Name Changer is a Dart package for programmatically renaming occurrences of a project name in Dart files. This package provides a convenient way to automate the process of updating project names across multiple files in a Dart project.
+Flutter Project Renamer is a Dart package for programmatically renaming occurrences of a project name in Dart files. This package provides a convenient way to automate the process of updating project names across multiple files in a Dart project.
 
 ## Features
 
@@ -11,13 +11,13 @@ Flutter Project Name Changer is a Dart package for programmatically renaming occ
 
 ## Installation
 
-To use this package, add `flutter_project_name_changer` as a dependency in your `pubspec.yaml` file:
+To use this package, add `flutter_project_renmaer` as a dependency in your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_project_name_changer: ^1.0.0
+  flutter_project_renmaer: ^1.0.0
 
 
 
 
-dart run flutter_project_name_changer my_old_project_name my_new_project_name /path/to/your/project
+dart run flutter_project_renmaer my_old_project_name my_new_project_name /path/to/your/project
