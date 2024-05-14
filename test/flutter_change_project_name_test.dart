@@ -3,7 +3,6 @@ import 'dart:io';
 import 'package:flutter_project_name_changer/flutter_change_project_name.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:path/path.dart' as path;
 
 void main() {
   test('Test renaming logic', () {
