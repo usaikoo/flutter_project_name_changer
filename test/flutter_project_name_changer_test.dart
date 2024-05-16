@@ -12,7 +12,7 @@ void main() {
     final directory = '/Users/saiko/Desktop/AABB_Market';
 
     // Execute the renaming logic
-    renameProject(directory, oldProjectName, newProjectName);
+    renameProject(directory, oldProjectName);
 
     // Verify the output
     final dartFiles = Directory(directory).listSync(recursive: true)
