@@ -25,4 +25,4 @@ dependencies:
 
 ```code
 flutter pub run flutter_project_name_changer:main project_new_name
-```
+```# profanity_filter
